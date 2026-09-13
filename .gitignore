@@ -1,0 +1,12 @@
+# Credenciales y secretos
+.env
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Base de datos local
+jarvis_db/
+
+# Archivos de registro / Logs
+*.log
